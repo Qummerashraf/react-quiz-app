@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1Q",
+    "number": "1",
+    "question": "Where is Taj Mahal ?",
+    "options": [
+      { "id": "1", "option": "Kanpur" },
+      { "id": "2", "option": "Rajasthan" },
+      { "id": "3", "option": "Agra" },
+      { "id": "4", "option": "New York" }
+    ],
+    "answerId": "3"
+  },
+  {
+    "id": "2Q",
+    "question": "What is Capital of India?",
+    "number": "2",
+    "options": [
+      { "id": "1", "option": "Kolkata" },
+      { "id": "2", "option": "Delhi" },
+      { "id": "3", "option": "Mumbai" },
+      { "id": "4", "option": "New York" }
+    ],
+    "answerId": "2"
+  },
+  {
+    "id": "3Q",
+    "number": "3",
+    "question": "Where is Lords Cricket Stadium?",
+    "options": [
+      { "id": "1", "option": "Melbourne" },
+      { "id": "2", "option": "London" },
+      { "id": "3", "option": "Leeds" },
+      { "id": "4", "option": "Manchester" }
+    ],
+    "answerId": "2"
+  },
+  {
+    "id": "4Q",
+    "number": "4",
+    "question": "What is Capital of Spain?",
+    "options": [
+      { "id": "1", "option": "Paris" },
+      { "id": "2", "option": "Lisbon" },
+      { "id": "3", "option": "Barcelona" },
+      { "id": "4", "option": "Madrid" }
+    ],
+    "answerId": "4"
+  },
+  {
+    "id": "5q",
+    "question": "What is full form WWW ?",
+    "number": "5",
+    "options": [
+      { "id": "1", "option": "Wed World Wide" },
+      { "id": "2", "option": "World Web Wide" },
+      { "id": "3", "option": "World Wide Web" },
+      { "id": "4", "option": "None of this" }
+    ],
+    "answerId": "3"
+  }
+]
